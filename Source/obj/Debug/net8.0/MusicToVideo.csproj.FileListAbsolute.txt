@@ -1,0 +1,15 @@
+/home/runner/work/MusicToVideo/MusicToVideo/Source/bin/Debug/net8.0/MusicToVideo
+/home/runner/work/MusicToVideo/MusicToVideo/Source/bin/Debug/net8.0/MusicToVideo.deps.json
+/home/runner/work/MusicToVideo/MusicToVideo/Source/bin/Debug/net8.0/MusicToVideo.runtimeconfig.json
+/home/runner/work/MusicToVideo/MusicToVideo/Source/bin/Debug/net8.0/MusicToVideo.dll
+/home/runner/work/MusicToVideo/MusicToVideo/Source/bin/Debug/net8.0/MusicToVideo.pdb
+/home/runner/work/MusicToVideo/MusicToVideo/Source/obj/Debug/net8.0/MusicToVideo.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/MusicToVideo/MusicToVideo/Source/obj/Debug/net8.0/MusicToVideo.AssemblyInfoInputs.cache
+/home/runner/work/MusicToVideo/MusicToVideo/Source/obj/Debug/net8.0/MusicToVideo.AssemblyInfo.cs
+/home/runner/work/MusicToVideo/MusicToVideo/Source/obj/Debug/net8.0/MusicToVideo.csproj.CoreCompileInputs.cache
+/home/runner/work/MusicToVideo/MusicToVideo/Source/obj/Debug/net8.0/MusicToVideo.sourcelink.json
+/home/runner/work/MusicToVideo/MusicToVideo/Source/obj/Debug/net8.0/MusicToVideo.dll
+/home/runner/work/MusicToVideo/MusicToVideo/Source/obj/Debug/net8.0/refint/MusicToVideo.dll
+/home/runner/work/MusicToVideo/MusicToVideo/Source/obj/Debug/net8.0/MusicToVideo.pdb
+/home/runner/work/MusicToVideo/MusicToVideo/Source/obj/Debug/net8.0/MusicToVideo.genruntimeconfig.cache
+/home/runner/work/MusicToVideo/MusicToVideo/Source/obj/Debug/net8.0/ref/MusicToVideo.dll
